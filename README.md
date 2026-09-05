@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Rameez Naeem
+
+🎓 **BS Information Security Student**  
+🔐 Passionate about Cyber Security, Cloud Security & Scripting  
+
+---
+
+### 🛠️ What I'm Up To:
+- 🔭 **Currently studying:** BS Information Security
+- 🌱 **Currently learning:** Python & Amazon Web Services (AWS)
+- ⚙️ **Core Interests:** Cloud Security, Network Security, Automation
+- 💬 **Ask me about:** Data Structures, OS, Information Security basics
+
+---
+
+### 🧰 Tech & Tools:
+- **Languages:** Python, C++
+- **Cloud & Ops:** AWS
+- **Domains:** Information Security, Cybersecurity
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [www.linkedin.com/in/rameez-naeem-192aa4397]
+- **Email:** [rameeznaeem854@gmail.com]
+-## Hi there 👋
 
 <!--
 **rameeznaeem/rameeznaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
