@@ -31,8 +31,38 @@
   </a>
 </p>
 
+# Hi there 👋, I'm Rameez Naeem
+
 <p align="center">
-  <img src="https://media.giphy.com/media/uT1B0JkZin5kY/giphy.gif" width="480px" alt="Developer Coding">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12dzR2bjRpaGJzcXdkZnl0czB0bDR1YmlhNDNzZWVxYzlyOGZtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pZipqyo1sqA1fhtTB/giphy.gif" width="550px" alt="Coding Workspace Animation">
+</p>
+
+## 🐍 Python Developer | ☁️ AWS Cloud Learner
+
+---
+
+### 🚀 What I'm Focused On:
+
+- 🐍 **Python:** Writing clean code, automation scripts, and backend projects.
+- ☁️ **AWS:** Learning core services like EC2, S3, IAM, and Cloud Security.
+
+---
+
+### 🛠️ Core Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rameeznaeem&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 Here are some ideas to get you started:
 
