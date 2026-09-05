@@ -25,12 +25,11 @@
 - **Email:** [rameeznaeem854@gmail.com]
   
 
-<<p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+a+BS+Information+Security+Student;Learning+Python+%26+AWS;Passionate+about+Cyber+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B+I'm+Rameez+Naeem;BS+Information+Security+Student+%F0%9F%94%90;Learning+Python+%26+AWS+%E2%98%81%EF%B8%8F;Passionate+about+Cyber+Security" alt="Typing SVG" />
   </a>
-</p>!--
-**rameeznaeem/rameeznaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
 Here are some ideas to get you started:
 
