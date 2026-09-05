@@ -31,6 +31,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="450px" alt="Python Coding Animation">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="40" height="40" alt="Python"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200px" alt="Python Snake Run">
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
