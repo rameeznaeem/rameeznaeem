@@ -33,9 +33,7 @@
 
 
 
-    <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=20&center=true&vCenter=true&width=500&lines=I+am+coding...;Using+GitHub+like+a+pro;Learning+everyday+🚀">
-</p>
+  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
