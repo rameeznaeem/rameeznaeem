@@ -23,7 +23,7 @@
 ### 📫 Connect with me:
 - **LinkedIn:** [www.linkedin.com/in/rameez-naeem-192aa4397]
 - **Email:** [rameeznaeem854@gmail.com]
--## Hi there 👋
+  
 
 <!--
 **rameeznaeem/rameeznaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
